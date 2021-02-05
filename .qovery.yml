@@ -1,0 +1,8 @@
+application:
+  name: httpbin
+  project: redisQoveryDeployDOIN5u3yWW
+  organization: QoveryCommunity
+databases:
+- type: redis
+  version: 6
+  name: e2e-redis
